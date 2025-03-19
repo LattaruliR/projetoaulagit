@@ -12,5 +12,5 @@ Apresentar as principais funcionalidades da plataforma GitHub
 * Item3
 
 ## Colaboradores
-Ricardo Lattaruli 
-Miguel Angelus
+* Ricardo Lattaruli 
+* Miguel Angelus
